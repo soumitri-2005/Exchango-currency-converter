@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Exchango-currency-converter/static/css/main.77cc7ff1.css",
+    "main.js": "/Exchango-currency-converter/static/js/main.cb62f29f.js",
+    "static/js/453.52935a8b.chunk.js": "/Exchango-currency-converter/static/js/453.52935a8b.chunk.js",
+    "static/media/currencies_chiseled.png": "/Exchango-currency-converter/static/media/currencies_chiseled.bf5590fbf3d1585301b3.png",
+    "index.html": "/Exchango-currency-converter/index.html",
+    "main.77cc7ff1.css.map": "/Exchango-currency-converter/static/css/main.77cc7ff1.css.map",
+    "main.cb62f29f.js.map": "/Exchango-currency-converter/static/js/main.cb62f29f.js.map",
+    "453.52935a8b.chunk.js.map": "/Exchango-currency-converter/static/js/453.52935a8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77cc7ff1.css",
+    "static/js/main.cb62f29f.js"
+  ]
+}
