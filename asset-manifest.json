@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Exchango-currency-converter/static/css/main.ac5fc7d2.css",
-    "main.js": "/Exchango-currency-converter/static/js/main.11cb2578.js",
+    "main.css": "/Exchango-currency-converter/static/css/main.1a8ac06d.css",
+    "main.js": "/Exchango-currency-converter/static/js/main.45ed5a90.js",
     "static/js/453.52935a8b.chunk.js": "/Exchango-currency-converter/static/js/453.52935a8b.chunk.js",
     "static/media/currencies_chiseled.png": "/Exchango-currency-converter/static/media/currencies_chiseled.bf5590fbf3d1585301b3.png",
+    "static/media/currencies_chiseled 2.png": "/Exchango-currency-converter/static/media/currencies_chiseled 2.191e1dab0f0256c1c70d.png",
     "index.html": "/Exchango-currency-converter/index.html",
-    "main.ac5fc7d2.css.map": "/Exchango-currency-converter/static/css/main.ac5fc7d2.css.map",
-    "main.11cb2578.js.map": "/Exchango-currency-converter/static/js/main.11cb2578.js.map",
+    "main.1a8ac06d.css.map": "/Exchango-currency-converter/static/css/main.1a8ac06d.css.map",
+    "main.45ed5a90.js.map": "/Exchango-currency-converter/static/js/main.45ed5a90.js.map",
     "453.52935a8b.chunk.js.map": "/Exchango-currency-converter/static/js/453.52935a8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac5fc7d2.css",
-    "static/js/main.11cb2578.js"
+    "static/css/main.1a8ac06d.css",
+    "static/js/main.45ed5a90.js"
   ]
 }
