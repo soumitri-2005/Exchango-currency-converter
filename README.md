@@ -1,4 +1,4 @@
-#Exchango-currency-converter 
+# Exchango-currency-converter 
 
 This responsive React app converts currencies using up-to-date API data. Deployed on GitHub Pages, it offers quick and accurate currency conversions. Perfect for travelers and business needs.
 
